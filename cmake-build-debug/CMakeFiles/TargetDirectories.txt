@@ -1,0 +1,3 @@
+C:/Users/holn1/CLionProjects/tinh_nuachuvi_tamgiac/cmake-build-debug/CMakeFiles/tinh_nuachuvi_tamgiac.dir
+C:/Users/holn1/CLionProjects/tinh_nuachuvi_tamgiac/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/holn1/CLionProjects/tinh_nuachuvi_tamgiac/cmake-build-debug/CMakeFiles/rebuild_cache.dir
